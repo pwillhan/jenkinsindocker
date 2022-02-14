@@ -1,0 +1,56 @@
+# Files to ignore
+**/.idea
+**/.vagrant
+**/.css
+**/.img
+**/*.iml
+**/*.log
+**/*.class
+**/*.box
+**/*.retry
+**/.DS_Store
+**/.gradle
+**/.vertx
+**/.travis.yml
+**/temp.yml
+**/test.csv
+**/Report.jtl
+**/tmp*.*
+**/.settings
+**/build/
+**/gradle/
+**/node_modules/
+**/out/
+**/logs/
+**/volumes/
+
+# python
+**/venv/
+**/bin/
+**/include/
+**/lib/
+**/tmp/
+
+**/*.pyc
+**/*.egg
+**/*.egg-info
+**/dist/
+**/eggs/
+**/parts/
+**/var/
+**/sdist/
+**/develop-eggs/
+**/.installed.cfg
+**/lib64/
+**/__pycache__/
+
+**/pip-log.txt
+
+# Unit test / coverage reports
+**/.coverage
+**/.tox
+**/nosetests.xml
+
+# Java
+**/target/
+**/dependency-reduced-pom.xml
